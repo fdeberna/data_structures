@@ -1,1 +1,1 @@
-some data structures examples
+Basic implementation of some data structures
